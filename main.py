@@ -8,4 +8,4 @@ config.read('config.ini')
 
 video_file = get_video_name(config)
 
-print(video_file)
+print("Done.")
